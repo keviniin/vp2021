@@ -1,2 +1,3 @@
 # vp2021
-Veebiprogrammeerimise kursuse githubi repo.
+Veebiprogrammeerimise kursuse githubi repo
+work in progress!
